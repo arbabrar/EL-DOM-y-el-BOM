@@ -1,0 +1,23 @@
+body{
+	background-color: #BCF5A9;
+}
+.cabecera{
+	background-color:#2E64FE;
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	font-size: 1em;
+	text-align: center;
+	width: 100%;
+	border-radius: 10px;
+	text-shadow: 2px 2px #1C1C1C; 
+}
+
+}
+.contenedor{
+	border-radius: 10px;
+	border:solid 1px black;
+	background-color: white;
+	margin-top:10px;
+
+}
+
